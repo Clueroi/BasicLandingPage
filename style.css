@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#hero{
+    width: 568px;
+    margin: 0 auto 72px;
+
+    text-align: center;
+}
+
+#purple{
+    color: #ee24ff;
+}
+
+#GirlInTheMoon{
+    margin: auto;
+}
+
+#line{
+    width:568px;
+    height: 0;
+
+    border: #eceff2 solid 1px;
+
+    margin: 0 auto 8px;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+    line-height: 20px;
+    margin: 20px auto;
+    font-size: 15px;
+    color: #828282;
+}
+
+#hero a{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    text-decoration: none;
+    margin-left: 20px;
+    color: #3F3D56;
+}
+
+#wave{
+    width: 100%;
+}
